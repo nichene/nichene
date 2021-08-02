@@ -1,5 +1,4 @@
-### Hi 👋
-** this github is not used as a portfolio ^^
+this github is not used as a portfolio 
 
 <!--
 **nichene/nichene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
